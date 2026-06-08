@@ -1,0 +1,82 @@
+# Maven
+target/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.asc
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/MavenWrapperDownloader.java
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# IDE - VSCode
+.vscode/
+launch.json
+settings.json
+
+# IDE - Eclipse
+.classpath
+.c9/
+*.launch
+.project
+.pydevproject
+.settings/
+*.sublime-workspace
+
+# Other IDEs
+.sts4-cache/
+.springBeans
+.tern-port
+
+# Operating Systems
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Application
+*.log
+logs/
+*.log.*
+
+# H2 database files
+*.mv.db
+*.trace.db
+
+# Environment specific files
+.env
+.env.local
+.env.*.local
+
+# Build and Runtime
+build/
+.gradle/
+*.gradle.kts
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Package files
+*.pem
+*.key
+*.cert
+
